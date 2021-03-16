@@ -15,5 +15,6 @@ export default class Home extends Vue {
 
 <style>
 .home {
+	color: red;
 }
 </style>
